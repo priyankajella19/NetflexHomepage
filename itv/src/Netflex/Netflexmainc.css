@@ -1,0 +1,15 @@
+h3{
+  
+
+
+}
+.container{
+    color: aliceblue;
+    
+    font-size: large;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   
+}

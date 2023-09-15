@@ -1,0 +1,8 @@
+.background-image{
+    background-image: url("../Netflex/netflexbanner.jpg");
+    height: 750px;
+    background-size: contain;
+}
+.main{
+   background-color: rgba(0, 0, 0, 0.7);
+}
