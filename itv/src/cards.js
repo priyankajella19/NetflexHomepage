@@ -24,7 +24,7 @@ export function Card(){
             <div className="d-flex flex-wrap p-5 ">
                 {
                     products.map(product=>
-                    <div className="card m-2 w-15 p-2">
+                    <div className="card m-2 w-15 p-2 h-25">
 
                         <div className="">
                             <img src={product.photo} height={100}></img>
